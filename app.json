@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "graduation",
+    "slug": "graduation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+   "splash": {
+      "image": "./assets/logow.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF5900"
+    },
+   
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
